@@ -1,16 +1,32 @@
-- 👋 Hi, I’m Amal
-- 👀 Full-Stack Developer: I'm passionate about software engineering
-- Front-End : Building with JavaScript, React, HTML, and CSS.
-- Back-End : Building with Node.js, Express, PostgreSQL, Prisma ORM
-- 💞️ Looking to Collaborate: I'm interested in working on full stack opensource software 
+# Hi there, I'm Amal ! 👋
 
-- 📫 You can message me on Github
+## 🌟 Full Stack Software Engineer | Open Source Enthusiast
 
-Hi, I'm Amal!
+Multidisciplinary Software Engineer | Electronics & Finance Background | Australia 🇦🇺
 
-Find me on my personal website: https://www.amalk.au
+With a career spanning Software Engineering, Electronics Engineering and Finance across the UK, Sri Lanka, and Australia, I bring a multidisciplinary perspective to Full Stack Software Engineering. I specialise in solving niche, real world problems by bridging complex technical requirements with clear, high level business goals.
 
-<!---
-1Amal/1Amal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧬 My Engineering Philosophy
+
+- First Principles: I build systems that are simple, efficient, and built to last.
+
+- Depth Over Abstraction: I prioritize foundational technologies. JS, HTML, CSS for their performance and longevity. I use modern frameworks deliberately, not by default.
+
+- Resilient Design: By understanding what happens beneath the abstractions, I ensure software is secure, maintainable, and fast by design.
+
+### 🛠️ Technical Strategy & Expertise
+
+| Focus              | Technologies & Approach                                      |
+| :----------------- | :----------------------------------------------------------- |
+| **Foundations**    | JavaScript (ES6+), HTML5, CSS3, First Principles Engineering |
+| **Full Stack**     | Next.js, React, Node.js, Express                             |
+| **Data & Systems** | PostgreSQL, Prisma ORM, Electronics Engineering Logic        |
+| **Business**       | Finance sector experience, Cross functional Collaboration    |
+
+### Collaboration
+
+💞️ Looking to Collaborate: Open source projects with high real world impact.
+
+💬 Ask me about: The intersection of hardware and software, or financial systems architecture.
+
+📫 Connect on Github
