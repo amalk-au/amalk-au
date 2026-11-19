@@ -1,14 +1,12 @@
-# Hi, I'm Amal 👋
+# Hi 👋, I'm Amal — Full Stack Software Engineer
 
-## Full Stack Software Engineer
-
-I design and build full-stack web applications and backend systems, with an emphasis on **clean architecture, maintainability, security, and intuitive user experiences**.
+I design and build full-stack applications, backend systems, and developer tools, with an emphasis on **clean architecture, maintainability, security, and intuitive user experiences**. I believe in building practical software that solves real problems and sharing it openly so others can learn from it, use it, and build upon it.
 
 My background spans **Software Engineering, Electronics Engineering, and Finance**, giving me a multidisciplinary perspective on solving complex technical challenges and building practical solutions to real-world problems.
 
 Based in **Australia 🇦🇺**.
 
-### 🛠️ Technical Focus
+### Engineering Focus
 
 | Area            | Technologies                                                                  |
 | :-------------- | :---------------------------------------------------------------------------- |
@@ -19,31 +17,27 @@ Based in **Australia 🇦🇺**.
 | **AI**          | Local LLMs, LLM APIs, Prompt Engineering, AI-assisted Application Development |
 | **Foundations** | JavaScript fundamentals, Web Platform, Computer & Systems Concepts            |
 
-### 🧠 Engineering Approach
+### Engineering Approach
 
-- **First-Principles Thinking:** Understand the problem at its core before introducing abstractions or complexity.
+-   **First Principles Thinking:** Understand the problem at its core before introducing abstractions or unnecessary complexity.
 
-- **Pragmatic Architecture:** Choose technologies, patterns, and trade-offs based on project requirements rather than industry trends.
+-   **Pragmatic Architecture:** Choose technologies, patterns, and trade-offs based on project requirements.
 
-- **Maintainability:** Prioritise clean, modular, testable, and easy-to-understand code.
+-   **Maintainability:** Prioritise clean, modular, testable, and easy-to-understand code.
 
-- **Security by Design:** Build security into every layer, from authentication and authorisation to input validation and data protection.
+-   **Security by Design:** Build security into every layer, from authentication and authorisation to input validation and data protection.
 
-### 🤝 Collaboration
+### Open-Source Philosophy
 
-I'm interested in collaborating on **software projects and open-source work that solve practical, real-world problems**.
+I believe useful software should be shared. I build open-source projects to solve problems I encounter, explore ideas, and create tools and resources that others can benefit from.
 
-### 📫 Connect
+My projects are developed with practical use in mind, and I make the source code publicly available so developers can explore, learn from, adapt, and contribute to them.
 
-[GitHub](https://github.com/amalk-au) · [Website](https://amalk.au/)
+## Featured Projects
 
-## 🚀 Featured Projects
+I build and share open-source software, tools, and resources designed to solve practical problems, make knowledge more accessible, and be useful to the wider developer community. Explore the projects, put them to use, and feel free to contribute.
 
-A selection of projects showcasing my experience building full-stack applications, backend systems, and practical software solutions. Click the arrows to learn more.
-
----
-
-<details open> 
+<details> 
 <summary> <strong>Tech Lexicon : </strong> The Tech Lexicon is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies. </summary>
 <br>
 <p><strong>Technologies:</strong> Markdown</p>
@@ -66,3 +60,11 @@ A selection of projects showcasing my experience building full-stack application
 <a href="https://full-stack-blog-t1n4.onrender.com/"> (Live) Backend API → </a>
 
 </details>
+
+### Collaboration
+
+I welcome collaboration, feedback, and contributions from developers who share an interest in building useful, practical, and open-source software. Whether it's improving an existing project, sharing ideas, or solving a problem together, I'm always open to constructive contributions.
+
+### Connect
+
+[GitHub](https://github.com/amalk-au) · [Website](https://amalk.au/)
