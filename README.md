@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amal — Full Stack Software Engineer
+# Hi 👋, I'm Amal, a Full Stack Software Engineer
 
 I design and build full-stack applications, backend systems, and developer tools, with an emphasis on **clean architecture, maintainability, security, and intuitive user experiences**. I believe in building practical software that solves real problems and sharing it openly so others can learn from it, use it, and build upon it.
 
@@ -6,7 +6,7 @@ My background spans **Software Engineering, Electronics Engineering, and Finance
 
 Based in **Australia 🇦🇺**.
 
-### Engineering Focus
+## Engineering Focus
 
 | Area            | Technologies                                                                  |
 | :-------------- | :---------------------------------------------------------------------------- |
@@ -17,27 +17,27 @@ Based in **Australia 🇦🇺**.
 | **AI**          | Local LLMs, LLM APIs, Prompt Engineering, AI-assisted Application Development |
 | **Foundations** | JavaScript fundamentals, Web Platform, Computer & Systems Concepts            |
 
-### Engineering Approach
+## Engineering Approach
 
--   **First Principles Thinking:** Understand the problem at its core before introducing abstractions or unnecessary complexity.
+- **First Principles Thinking:** Understand the problem at its core before introducing abstractions or unnecessary complexity.
 
--   **Pragmatic Architecture:** Choose technologies, patterns, and trade-offs based on project requirements.
+- **Pragmatic Architecture:** Choose technologies, patterns, and trade-offs based on project requirements.
 
--   **Maintainability:** Prioritise clean, modular, testable, and easy-to-understand code.
+- **Maintainability:** Prioritise clean, modular, testable, and easy-to-understand code.
 
--   **Security by Design:** Build security into every layer, from authentication and authorisation to input validation and data protection.
+- **Security by Design:** Build security into every layer, from authentication and authorisation to input validation and data protection.
 
-### Open-Source Philosophy
+## Open-Source Philosophy
 
 I believe useful software should be shared. I build open-source projects to solve problems I encounter, explore ideas, and create tools and resources that others can benefit from.
 
 My projects are developed with practical use in mind, and I make the source code publicly available so developers can explore, learn from, adapt, and contribute to them.
 
-## Featured Projects
+## Open-Source Projects & Resources
 
-I build and share open-source software, tools, and resources designed to solve practical problems, make knowledge more accessible, and be useful to the wider developer community. Explore the projects, put them to use, and feel free to contribute.
+A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. These projects are developed with the intention of being useful beyond their original purpose. You're welcome to explore, use, adapt, and contribute.
 
-<details> 
+<details open> 
 <summary> <strong>Tech Lexicon : </strong> The Tech Lexicon is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies. </summary>
 <br>
 <p><strong>Technologies:</strong> Markdown</p>
@@ -48,7 +48,7 @@ I build and share open-source software, tools, and resources designed to solve p
 
 ---
 
-<details> 
+<details open> 
 <summary> <strong>Full Stack Blog : </strong> A full-stack blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
 <br>
 <p><strong>Technologies:</strong> JavaScript, React, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, Postman</p>
@@ -61,10 +61,10 @@ I build and share open-source software, tools, and resources designed to solve p
 
 </details>
 
-### Collaboration
+## Collaboration
 
 I welcome collaboration, feedback, and contributions from developers who share an interest in building useful, practical, and open-source software. Whether it's improving an existing project, sharing ideas, or solving a problem together, I'm always open to constructive contributions.
 
-### Connect
+[GitHub](https://github.com/amalk-au)
 
-[GitHub](https://github.com/amalk-au) · [Website](https://amalk.au/)
+[Website](https://amalk.au/)
