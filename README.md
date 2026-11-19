@@ -35,29 +35,28 @@ My projects are developed with practical use in mind, and I make the source code
 
 ## Open-Source Projects & Resources
 
-A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. These projects are developed with the intention of being useful beyond their original purpose. You're welcome to explore, use, adapt, and contribute.
+A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. Created with the goal of being useful to others, these projects are open for everyone to explore, use, adapt, and contribute to. Expand each entry for more details.
 
-<details open> 
-<summary> <strong>Tech Lexicon : </strong> The Tech Lexicon is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies. </summary>
+<details> 
+<summary> The <strong>
+<a href="https://github.com/amalk-au/tech-lexicon">
+        Tech Lexicon ↗ 
+      </a>
+</strong> is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies. </summary>
 <br>
 <p><strong>Technologies:</strong> Markdown</p>
-
-<a href="https://github.com/amalk-au/tech-lexicon"> View Repository → </a>
-
 </details>
 
 ---
 
-<details open> 
-<summary> <strong>Full Stack Blog : </strong> A full-stack blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
+<details> 
+<summary> <strong>The <a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> is a blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
 <br>
 <p><strong>Technologies:</strong> JavaScript, React, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, Postman</p>
 
-<a href="https://github.com/amalk-au/full-stack-blog"> View Repository → </a>
+<a href="https://amalk.au/full-stack-blog"> (Live) Blog Frontend ↗ </a>
 
-<a href="https://amalk.au/full-stack-blog"> (Live) Blog Frontend → </a>
-
-<a href="https://full-stack-blog-t1n4.onrender.com/"> (Live) Backend API → </a>
+<a href="https://full-stack-blog-t1n4.onrender.com/"> (Live) Backend API ↗ </a>
 
 </details>
 
