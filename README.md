@@ -89,6 +89,18 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 </details>
 
+---
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/messaging-app">Messaging App ↗</a></strong>
+    A full-stack messaging application that allows authenticated users to create, manage, and exchange messages. Features user authentication, role-based access control, and message management through a React interface backed by a REST API.
+  </summary>
+
+  <p><strong>Technologies:</strong> React, JavaScript, Vite, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API, JWT, Passport.js</p>
+
+  <a href="https://www.amalk.au/messaging-app">Live Demo ↗</a>
+</details>
+
 ### Frontend
 
 <details>
@@ -110,7 +122,6 @@ A collection of open-source projects, tools, and resources built to solve practi
     <strong><a href="https://github.com/amalk-au/inventory-management">Inventory Management ↗</a></strong>
     A modular, web-based inventory management application built with Node.js, Express and PostgreSQL. It provides a browser-accessible interface for managing product information and stock levels, with a modular backend designed to support future enhancements and evolving business requirements.
   </summary>
-
   <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, Native PostgreSQL (pg), EJS, HTML, CSS, Render, Koyeb</p>
 
 </details>
@@ -125,6 +136,8 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, EJS, HTML, CSS</p>
 </details>
+
+---
 
 <details>
   <summary>
