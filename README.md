@@ -38,6 +38,7 @@ My projects are developed with practical use in mind, and I make the source code
 A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. Created with the goal of being useful to others, these projects are open for everyone to explore, use, adapt, and contribute to. Expand each entry for more details.
 
 ### Fullstack
+
 <details> 
 <summary> <strong>
 <a href="https://github.com/amalk-au/tech-lexicon">
@@ -71,7 +72,8 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> React, JavaScript, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API, JWT Authentication</p>
 
-  <a href="https://www.amalk.au/social-circle-app">Live Demo ↗</a>
+<a href="https://www.amalk.au/social-circle-app">Live Demo ↗</a>
+
 </details>
 
 ---
@@ -88,6 +90,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 </details>
 
 ### Frontend
+
 <details>
   <summary>
     <strong><a href="https://github.com/amalk-au/rss-pager">RSS Pager ↗</a></strong>
@@ -96,14 +99,16 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript (ES Modules), Node.js, Browser LocalStorage API, Fetch API, RSS, Atom</p>
 
-  <a href="https://www.amalk.au/rss-pager">Live Demo ↗</a>
+<a href="https://www.amalk.au/rss-pager">Live Demo ↗</a>
+
 </details>
 
 ### Backend
+
 <details>
   <summary>
     <strong><a href="https://github.com/amalk-au/inventory-management">Inventory Management ↗</a></strong>
-    A full-stack inventory management application built to help businesses efficiently manage product information, track stock levels, and organize inventory. Features product categorization, inventory tracking, and complete CRUD operations.
+    A modular, web-based inventory management application built with Node.js, Express and PostgreSQL. It provides a browser-accessible interface for managing product information and stock levels, with a modular backend designed to support future enhancements and evolving business requirements.
   </summary>
 
   <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, Native PostgreSQL (pg), EJS, HTML, CSS, Render, Koyeb</p>
@@ -112,6 +117,24 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 ---
 
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/mini-message-board">Mini Message Board ↗</a></strong>
+  A lightweight, server-rendered message board built with Node.js, Express.js, PostgreSQL and EJS, featuring a Star Trek-inspired theme.
+  </summary>
+
+  <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, EJS, HTML, CSS</p>
+</details>
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/members-only">Members Only ↗</a></strong>
+    A membership-based message board where registered members can publish anonymous posts. Implements authentication and role-based authorization, allowing visitors, members, and administrators to access different levels of functionality.
+  </summary>
+
+  <p><strong>Technologies:</strong> Node.js, Express.js, PostgreSQL, Passport.js, bcrypt.js, EJS, express-validator, JavaScript, HTML5, CSS3</p>
+
+</details>
 
 <!--
 Project Template
