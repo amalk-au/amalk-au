@@ -62,6 +62,19 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 ---
 
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/social-circle-app">Social Circle ↗</a></strong>
+    A full-stack social networking application designed to help people stay connected with their closest friends through profiles, follow relationships and social interactions.
+  </summary>
+
+  <p><strong>Technologies:</strong> React, JavaScript, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API, JWT Authentication</p>
+
+  <a href="https://www.amalk.au/social-circle-app">Live Demo ↗</a>
+</details>
+
+---
+
 <details> 
 <summary> <strong><a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> is a blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
 
@@ -70,6 +83,29 @@ A collection of open-source projects, tools, and resources built to solve practi
 <a href="https://amalk.au/full-stack-blog"> (Live) Blog Frontend ↗ </a>
 
 <a href="https://full-stack-blog-t1n4.onrender.com/"> (Live) Backend API ↗ </a>
+
+</details>
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/rss-pager">RSS Pager ↗</a></strong>
+    A retro-inspired RSS and Atom feed reader that recreates the classic pager experience on the modern web. Subscribe to news feeds, browse articles, manage subscriptions, and receive notifications through an interactive, responsive pager interface.
+  </summary>
+
+  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript (ES Modules), Node.js, Browser LocalStorage API, Fetch API, RSS, Atom</p>
+
+  <a href="https://www.amalk.au/rss-pager">Live Demo ↗</a>
+</details>
+
+---
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/inventory-management">Inventory Management ↗</a></strong>
+    A full-stack inventory management application built to help businesses efficiently manage product information, track stock levels, and organize inventory. Features product categorization, inventory tracking, and complete CRUD operations.
+  </summary>
+
+  <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, Native PostgreSQL (pg), EJS, HTML, CSS, Render, Koyeb</p>
 
 </details>
 
