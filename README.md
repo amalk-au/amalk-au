@@ -38,20 +38,33 @@ My projects are developed with practical use in mind, and I make the source code
 A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. Created with the goal of being useful to others, these projects are open for everyone to explore, use, adapt, and contribute to. Expand each entry for more details.
 
 <details> 
-<summary> The <strong>
+<summary> <strong>
 <a href="https://github.com/amalk-au/tech-lexicon">
         Tech Lexicon ↗ 
       </a>
-</strong> is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies. </summary>
-<br>
+</strong> is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies.
+
+</summary>
 <p><strong>Technologies:</strong> Markdown</p>
+
+</details>
+
+---
+
+<details>
+  <summary>
+    <strong><a href="[REPOSITORY_URL](https://github.com/amalk-au/web-development-template)">Web Development Template ↗</a></strong>
+    A lightweight GitHub repository template for creating web development projects, experiments, prototypes, and learning projects. The template provides a consistent development foundation with essential tooling and sensible defaults. Frameworks, libraries, databases, and additional services can be added as required by each project.
+
+  </summary>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, TypeScript, Node.js, React, Next.js, PostgreSQL</p>
 </details>
 
 ---
 
 <details> 
-<summary> <strong>The <a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> is a blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
-<br>
+<summary> <strong><a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> is a blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
+
 <p><strong>Technologies:</strong> JavaScript, React, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, Postman</p>
 
 <a href="https://amalk.au/full-stack-blog"> (Live) Blog Frontend ↗ </a>
@@ -59,6 +72,21 @@ A collection of open-source projects, tools, and resources built to solve practi
 <a href="https://full-stack-blog-t1n4.onrender.com/"> (Live) Backend API ↗ </a>
 
 </details>
+
+<!--
+Project Template
+<details>
+  <summary>
+    <strong><a href="REPOSITORY_URL">PROJECT_NAME ↗</a></strong>
+    PROJECT_DESCRIPTION
+  </summary>
+
+  <p><strong>Technologies:</strong> TECHNOLOGIES</p>
+
+  <a href="LIVE_DEMO_URL">Live Demo ↗</a>
+</details>
+
+-->
 
 ## Collaboration
 
