@@ -101,6 +101,22 @@ A collection of open-source projects, tools, and resources built to solve practi
   <a href="https://www.amalk.au/messaging-app">Live Demo ↗</a>
 </details>
 
+---
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/to-do-list-api">To-Do List API ↗</a></strong>
+    A RESTful API for managing to-do lists, providing endpoints for creating, retrieving, updating, and deleting tasks. Designed to demonstrate backend development, API architecture, database integration, and server-side data validation.
+  </summary>
+
+  <p><strong>Technologies:</strong> Node.js, Express.js, PostgreSQL, Prisma ORM, JavaScript, REST API</p>
+<a href="https://amalk.au/to-do-list-api/">Live Demo (Frontend) ↗</a>
+
+<a href="https://to-do-list-api-kh03.onrender.com/">Live Demo (API) ↗</a>
+  
+  
+</details>
+
 ### Frontend
 
 <details>
@@ -113,6 +129,17 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 <a href="https://www.amalk.au/rss-pager">Live Demo ↗</a>
 
+</details>
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/weather-app-js">Weather App ↗</a></strong>
+    A responsive weather application that allows users to search for weather conditions by city. Fetches real-time weather data from an external API and dynamically displays temperature, humidity, wind speed, and weather conditions.
+  </summary>
+
+  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript (ES6+), Fetch API, REST API, Async/Await</p>
+
+  <a href="https://amalk.au/weather-app-js/">Live Demo ↗</a>
 </details>
 
 ### Backend
