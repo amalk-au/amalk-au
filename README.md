@@ -37,6 +37,7 @@ My projects are developed with practical use in mind, and I make the source code
 
 A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. Created with the goal of being useful to others, these projects are open for everyone to explore, use, adapt, and contribute to. Expand each entry for more details.
 
+### Fullstack
 <details> 
 <summary> <strong>
 <a href="https://github.com/amalk-au/tech-lexicon">
@@ -86,6 +87,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 </details>
 
+### Frontend
 <details>
   <summary>
     <strong><a href="https://github.com/amalk-au/rss-pager">RSS Pager ↗</a></strong>
@@ -97,8 +99,7 @@ A collection of open-source projects, tools, and resources built to solve practi
   <a href="https://www.amalk.au/rss-pager">Live Demo ↗</a>
 </details>
 
----
-
+### Backend
 <details>
   <summary>
     <strong><a href="https://github.com/amalk-au/inventory-management">Inventory Management ↗</a></strong>
@@ -108,6 +109,9 @@ A collection of open-source projects, tools, and resources built to solve practi
   <p><strong>Technologies:</strong> JavaScript, Node.js, Express.js, PostgreSQL, Native PostgreSQL (pg), EJS, HTML, CSS, Render, Koyeb</p>
 
 </details>
+
+---
+
 
 <!--
 Project Template
