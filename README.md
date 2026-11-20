@@ -90,6 +90,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 </details>
 
 ---
+
 <details>
   <summary>
     <strong><a href="https://github.com/amalk-au/messaging-app">Messaging App ↗</a></strong>
@@ -98,7 +99,8 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> React, JavaScript, Vite, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API, JWT, Passport.js</p>
 
-  <a href="https://www.amalk.au/messaging-app">Live Demo ↗</a>
+<a href="https://www.amalk.au/messaging-app">Live Demo ↗</a>
+
 </details>
 
 ---
@@ -113,8 +115,21 @@ A collection of open-source projects, tools, and resources built to solve practi
 <a href="https://amalk.au/to-do-list-api/">Live Demo (Frontend) ↗</a>
 
 <a href="https://to-do-list-api-kh03.onrender.com/">Live Demo (API) ↗</a>
-  
-  
+
+</details>
+
+---
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/full-stack-photo-tagging-game">Photo Tagging Game ↗</a></strong>
+    A full-stack photo-tagging game inspired by Where's Waldo. Players search for hidden characters across multiple game levels, with server-side coordinate validation, timed gameplay, and a leaderboard to track the fastest completion times.
+  </summary>
+
+  <p><strong>Technologies:</strong> React, JavaScript, Vite, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API</p>
+
+<a href="https://amalk.au/full-stack-photo-tagging-game">Play Game ↗</a>
+
 </details>
 
 ### Frontend
@@ -139,7 +154,22 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript (ES6+), Fetch API, REST API, Async/Await</p>
 
-  <a href="https://amalk.au/weather-app-js/">Live Demo ↗</a>
+<a href="https://amalk.au/weather-app-js/">Live Demo ↗</a>
+
+</details>
+
+---
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/memory-card-game">Memory Card Game ↗</a></strong>
+    An interactive browser-based memory game where players flip cards to find matching pairs. Features dynamic card shuffling, game state management, and interactive animations to create an engaging gaming experience.
+  </summary>
+
+  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript (ES6+), DOM Manipulation</p>
+
+<a href="https://amal-memory-card-game.netlify.app/">Live Demo ↗</a>
+
 </details>
 
 ### Backend
@@ -174,6 +204,18 @@ A collection of open-source projects, tools, and resources built to solve practi
 
   <p><strong>Technologies:</strong> Node.js, Express.js, PostgreSQL, Passport.js, bcrypt.js, EJS, express-validator, JavaScript, HTML5, CSS3</p>
 
+</details>
+
+---
+
+<details>
+  <summary>
+    <strong><a href="https://github.com/amalk-au/file-uploader-crud">File Uploader CRUD ↗</a></strong>
+    A file management application that allows users to upload, view, organize, update, and delete files. Demonstrates file handling, CRUD operations, server-side validation, and persistent file storage.
+  </summary>
+
+  <p><strong>Technologies:</strong>
+  Node.js, Express.js, PostgreSQL, Prisma ORM, Passport.js, Express Session, Multer, EJS, bcryptjs, express-validator</p>
 </details>
 
 <!--
