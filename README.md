@@ -53,7 +53,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 
 <details>
   <summary>
-    <strong><a href="[REPOSITORY_URL](https://github.com/amalk-au/web-development-template)">Web Development Template ↗</a></strong>
+    <strong><a href="https://github.com/amalk-au/web-development-template">Web Development Template ↗</a></strong>
     A lightweight GitHub repository template for creating web development projects, experiments, prototypes, and learning projects. The template provides a consistent development foundation with essential tooling and sensible defaults. Frameworks, libraries, databases, and additional services can be added as required by each project.
 
   </summary>
