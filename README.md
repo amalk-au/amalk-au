@@ -44,7 +44,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 <a href="https://github.com/amalk-au/tech-lexicon">
         Tech Lexicon ↗ 
       </a>
-</strong> is an open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies.
+</strong> Open source, curated knowledge repository designed to capture, organize, and provide easy access to high-quality technical resources across Software Engineering, Computer Engineering, Hardware Engineering, DevOps, Cybersecurity, Linux, Artificial Intelligence, and emerging technologies.
 
 </summary>
 <p><strong>Technologies:</strong> Markdown</p>
@@ -79,7 +79,7 @@ A collection of open-source projects, tools, and resources built to solve practi
 ---
 
 <details> 
-<summary> <strong><a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> is a blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
+<summary> <strong><a href="https://github.com/amalk-au/full-stack-blog"> Full Stack Blog ↗ </a> </strong> Blogging application built with React, Node.js, Express, and PostgreSQL. The application features a RESTful API, JWT-based authentication, protected routes, and role-based access control (RBAC), with separate interfaces for readers and writers. </summary>
 
 <p><strong>Technologies:</strong> JavaScript, React, Vite, HTML, CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, Postman</p>
 
@@ -98,8 +98,6 @@ A collection of open-source projects, tools, and resources built to solve practi
   </summary>
 
   <p><strong>Technologies:</strong> React, JavaScript, Vite, Node.js, Express.js, PostgreSQL, Prisma ORM, REST API, JWT, Passport.js</p>
-
-<a href="https://www.amalk.au/messaging-app">Live Demo ↗</a>
 
 </details>
 
