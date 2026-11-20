@@ -35,7 +35,9 @@ My projects are developed with practical use in mind, and I make the source code
 
 ## Open-Source Projects & Resources
 
-A collection of open-source projects, tools, and resources built to solve practical problems, explore ideas, and share knowledge. Created with the goal of being useful to others, these projects are open for everyone to explore, use, adapt, and contribute to. Expand each entry for more details.
+Below are some highlighted projects showcasing my work across frontend, backend, and full-stack development. For more projects, experiments, and open-source contributions, visit my [GitHub profile](https://github.com/amalk-au).
+
+Expand each entry for project details, features, live demos, and technologies used. Click a project title to visit its GitHub repository.
 
 ### Fullstack
 
